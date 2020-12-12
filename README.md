@@ -7,5 +7,5 @@ legal risk.
 
 Learn more about:
 - [DMCA policy](https://lbry.com/faq/dmca)
-- [Content policy](https://lbry.com/faq/dmca)
+- [Content policy](https://lbry.com/faq/content)
 - [Current DMCA takedowns](https://github.com/lbryio/dmca)
